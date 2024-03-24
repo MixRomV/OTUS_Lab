@@ -83,6 +83,9 @@ end
  #Перезагрузка ВМ
  sudo reboot
 ```
+Ниже приведены скриншоты выдполнения Vagrantfile и скрипта
+В третьей стоке на первом скриншоте показана версия ядра до обновления
+
 ![Скриншот обновления 1](https://github.com/MixRomV/OTUS_Lab/blob/master/lab_01/Update01.png)
 
 ![Скриншот обновления 2](https://github.com/MixRomV/OTUS_Lab/blob/master/lab_01/Update02.png)
