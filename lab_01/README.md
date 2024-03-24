@@ -1,6 +1,8 @@
 # Vagrant-стенд для обновления ядра и создания образа системы
 [Цель](#pin01)
+
 [Задание](#pin02)
+
 [Выполнение](#pin03)
 
 ### <a id="pin01">Цель домашнего задания</a>
@@ -82,7 +84,9 @@ end
  sudo reboot
 ```
 ![Скриншот обновления 1](https://github.com/MixRomV/OTUS_Lab/blob/master/lab_01/Update01.png)
+
 ![Скриншот обновления 2](https://github.com/MixRomV/OTUS_Lab/blob/master/lab_01/Update02.png)
 
 После перезагрузки ВМ, зайдем на нее и проверим версию ядра
+
 ![Скриншот обновления 2](https://github.com/MixRomV/OTUS_Lab/blob/master/lab_01/Update03.png)
