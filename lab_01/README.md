@@ -81,8 +81,8 @@ end
  #Перезагрузка ВМ
  sudo reboot
 ```
-![Скриншот обновления 1](/media/mikhail/742B9BFE092AB86C/Otus_Lab/Lab_01/Update01.png)
-![Скриншот обновления 2](/media/mikhail/742B9BFE092AB86C/Otus_Lab/Lab_01/Update02.png)
+![Скриншот обновления 1](https://github.com/MixRomV/OTUS_Lab/blob/master/lab_01/Update01.png)
+![Скриншот обновления 2](https://github.com/MixRomV/OTUS_Lab/blob/master/lab_01/Update02.png)
 
 После перезагрузки ВМ, зайдем на нее и проверим версию ядра
-![Скриншот обновления 2](/media/mikhail/742B9BFE092AB86C/Otus_Lab/Lab_01/Update03.png)
+![Скриншот обновления 2](https://github.com/MixRomV/OTUS_Lab/blob/master/lab_01/Update03.png)
